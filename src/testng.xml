@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite Regression" verbose="1" >
+    <test name="Regression">
+        <classes>
+            <class name="com.sdetblueprint.tests.TestLogin"/>
+        </classes>
+    </test>
+</suite>

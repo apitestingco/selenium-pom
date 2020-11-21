@@ -1,0 +1,68 @@
+2020-51-21 19:51:23.264 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-51-21 19:51:23.274 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-51-21 19:51:23.296 [main] ERROR com.sdetblueprint.utils.Log - Browser Launch Failure: 
+java.lang.Exception: Browser or Browser Driver is not supported yet.
+	at com.sdetblueprint.base.TestBase.setUp(TestBase.java:40) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869) [testng-6.11.jar:?]
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126) [testng-6.11.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109) [testng-6.11.jar:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:744) [testng-6.11.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340) [testng-6.11.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.11.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226) [testng-6.11.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1144) [testng-6.11.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1115) [testng-6.11.jar:?]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135) [surefire-testng-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193) [surefire-testng-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94) [surefire-testng-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146) [surefire-testng-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418) [surefire-booter-2.22.1.jar:2.22.1]
+2020-51-21 19:51:23.313 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-51-21 19:51:57.582 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-51-21 19:51:57.592 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-51-21 19:51:57.608 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-52-21 19:52:11.904 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-52-21 19:52:59.344 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-52-21 19:52:59.354 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-52-21 19:52:59.368 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-53-21 19:53:11.573 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-54-21 19:54:01.196 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-54-21 19:54:01.207 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-54-21 19:54:01.222 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-54-21 19:54:11.833 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-00-21 20:00:39.445 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-00-21 20:00:39.456 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-00-21 20:00:39.470 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-00-21 20:00:49.385 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-00-21 20:00:49.965 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-00-21 20:00:58.758 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-03-21 20:03:03.480 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-03-21 20:03:03.491 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-03-21 20:03:03.507 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-03-21 20:03:17.320 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-03-21 20:03:17.920 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-03-21 20:03:25.043 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-06-21 20:06:12.663 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-06-21 20:06:12.680 [main] INFO  com.sdetblueprint.utils.Log - Getting WebDriver Settings
+2020-06-21 20:06:12.724 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-06-21 20:06:26.476 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows
+2020-06-21 20:06:27.073 [main] INFO  com.sdetblueprint.utils.Log - Found firefox as Browser
+2020-06-21 20:06:36.970 [main] INFO  com.sdetblueprint.utils.Log - Closing Webdriver Windows

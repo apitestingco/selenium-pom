@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Pramods-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "8263@Pramods-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "loginAndVerifyDashboard",
+        "uid" : "18533f124d2332d2",
+        "parentUid" : "a2c0fe88e2ec068ba505be28847d2c03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605969376641,
+          "stop" : 1605969386466,
+          "duration" : 9825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginVWO",
+        "uid" : "d9112e7cf38d2c87",
+        "parentUid" : "a2c0fe88e2ec068ba505be28847d2c03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605969389868,
+          "stop" : 1605969396968,
+          "duration" : 7100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2c0fe88e2ec068ba505be28847d2c03"
+    } ],
+    "uid" : "09f153309800f2fb6a54eb4f29e4705e"
+  } ]
+}

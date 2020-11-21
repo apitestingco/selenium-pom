@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "com.sdetblueprint.tests.TestLogin",
+        "children" : [ {
+          "name" : "loginAndVerifyDashboard",
+          "uid" : "18533f124d2332d2",
+          "parentUid" : "dfb894b8c360879f80056133a0c2a51c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605969376641,
+            "stop" : 1605969386466,
+            "duration" : 9825
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "loginVWO",
+          "uid" : "d9112e7cf38d2c87",
+          "parentUid" : "dfb894b8c360879f80056133a0c2a51c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605969389868,
+            "stop" : 1605969396968,
+            "duration" : 7100
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "dfb894b8c360879f80056133a0c2a51c"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "18533f124d2332d2",
+  "name" : "loginAndVerifyDashboard",
+  "time" : {
+    "start" : 1605969376641,
+    "stop" : 1605969386466,
+    "duration" : 9825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9112e7cf38d2c87",
+  "name" : "loginVWO",
+  "time" : {
+    "start" : 1605969389868,
+    "stop" : 1605969396968,
+    "duration" : 7100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

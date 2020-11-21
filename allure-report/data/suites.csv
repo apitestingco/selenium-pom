@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Nov 21 20:06:16 IST 2020","Sat Nov 21 20:06:26 IST 2020","9825","Surefire suite","Surefire test","com.sdetblueprint.tests.TestLogin","com.sdetblueprint.tests.TestLogin","loginAndVerifyDashboard","loginAndVerifyDashboard","Login to the VWO App and Verify Dashboard"
+"passed","Sat Nov 21 20:06:29 IST 2020","Sat Nov 21 20:06:36 IST 2020","7100","Surefire suite","Surefire test","com.sdetblueprint.tests.TestLogin","com.sdetblueprint.tests.TestLogin","loginVWO","loginVWO","Login to the VWO App"

@@ -1,0 +1,122 @@
+{
+  "uid" : "18533f124d2332d2",
+  "name" : "loginAndVerifyDashboard",
+  "fullName" : "com.sdetblueprint.tests.TestLogin.loginAndVerifyDashboard",
+  "historyId" : "bfca86c36017ca0be1c34853939782fe",
+  "time" : {
+    "start" : 1605969376641,
+    "stop" : 1605969386466,
+    "duration" : 9825
+  },
+  "description" : "Login to the VWO App and Verify Dashboard",
+  "descriptionHtml" : "<p>Login to the VWO App and Verify Dashboard</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1605969372721,
+      "stop" : 1605969376543,
+      "duration" : 3822
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Login to the VWO App and Verify Dashboard",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "loginAndVerifyDashboard",
+      "time" : {
+        "start" : 1605969376655,
+        "stop" : 1605969386465,
+        "duration" : 9810
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1605969386476,
+      "stop" : 1605969387070,
+      "duration" : 594
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.sdetblueprint.tests.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "com.sdetblueprint.tests.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginAndVerifyDashboard"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.sdetblueprint.tests.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Pramods-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "8263@Pramods-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18533f124d2332d2.json",
+  "parameterValues" : [ ]
+}
