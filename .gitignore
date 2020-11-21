@@ -119,3 +119,9 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,maven
+
+allure-report
+allure-results
+.idea
+.allure/allure-2.13.1
+.\logs\whublatest.log
